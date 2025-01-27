@@ -1,1 +1,3 @@
-Haiku about some heavy topic
+Haiku about some heavy topic.
+It's really heavy.
+Like a stone.
